@@ -1,4 +1,4 @@
-
+//Decided to build this using just javascript (Node.js) but could easy do the same in TypeScript
 
 class RSTLabChallenge {
 /**
